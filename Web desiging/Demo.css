@@ -1,0 +1,29 @@
+.Header{
+    width: 100%;
+    background: orangered;
+    height: 150px;
+}
+.Content{
+    height: 400px;
+
+}
+.Left-section{
+    width: 20%;
+    float: left;
+    height: 400px;
+    background: orchid;
+}
+.Right-section{
+    width: 80%;
+    float: right;
+    height: 400px;
+    background: gray;
+}
+.Footer{
+    height: 150px;
+    width: 100%;
+    background: indianred;
+}
+body{
+    margin: 0;
+}

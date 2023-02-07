@@ -1,0 +1,43 @@
+button{
+    background: cadetblue;
+    color:#fff;
+}
+#para1{
+    color: blueviolet;
+}
+#para2{
+    color: crimson;
+}
+.Headings{
+    color: dimgray;
+    background: coral;
+}
+.Outer-box{
+    width: 300px;
+    height: 200px;
+    background: cadetblue;
+    margin-left: 20px;
+    margin-top: 40px;
+    padding-left: 30px;
+    padding-top: 20px;
+    border: 3px solid;
+    border-color: red;
+}
+
+.box{
+    background: tan;
+    margin-left: 100px;
+    margin-top: 50px;
+    width: 300px;
+    height: 200px;
+    padding-left: 50px;
+    border:3px solid;
+}
+.inner-box{
+    background: hotpink;
+    width: 200px;
+    margin: 10px;
+    height: 100px;
+    border: 1px solid ;
+
+}
